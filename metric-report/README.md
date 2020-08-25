@@ -1,6 +1,6 @@
-# metric-reporter
+# metric-report
 
-This repository holds the source code for the metric-reporter.
+This repository holds the source code for the metric-report.
 
 ## Prerequisites
 
